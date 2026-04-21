@@ -13,6 +13,12 @@ Icona - https://github.com/daniswastaken/icona
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work's original components (such as borders and layouts) are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+## Legal Notice
+
+**Icona is NOT an official Minecraft product.** It is not approved by or associated with Mojang or Microsoft.
+
+Some icons in this project are derivative works of Minecraft's original UI assets. The base icons remain the property of Mojang Synergies AB and/or Microsoft Corporation. Your use of these icons must also comply with the [Minecraft Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines).
