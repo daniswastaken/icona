@@ -21,4 +21,4 @@ This work's original components (such as borders and layouts) are licensed under
 
 **Icona is NOT an official Minecraft product.** It is not approved by or associated with Mojang or Microsoft.
 
-Some icons in this project are derivative works of Minecraft's original UI assets. The base icons remain the property of Mojang Synergies AB and/or Microsoft Corporation. Your use of these icons must also comply with the [Minecraft Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines).
+Some icons in this project are original creations by the author, while others are derivative works of Minecraft's original UI assets. Original icons are fully covered by the CC BY 4.0 license. For derivative icons, the base assets remain the property of Mojang Synergies AB and/or Microsoft Corporation. Your use of these icons must also comply with the [Minecraft Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines).
